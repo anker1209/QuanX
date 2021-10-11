@@ -1,8 +1,8 @@
-#!name=¾©¶«ÖúÊÖ
-#!desc=¾©¶«ÖúÊÖ
+#!name=Â¾Â©Â¶Â«Ã–ÃºÃŠÃ–
+#!desc=Â¾Â©Â¶Â«Ã–ÃºÃŠÃ–
 
 [Script]
-jdHelper1 = type=http-response,pattern=^https:\/\/((?!(api|mapi|lbsapi|im\-x|hermes|uranus|saturn|ccf|ccflbs|ccfjma|perf|msg|lite\-msg|firevent|fireactive|lbsgw|lbsgd|ex|policy|mars|blackhole|homepage\-gw|sh|un|bh|orbit|wlmonitor|neptune|jxa|sinan\-agent|ws1\-dd|httpfereport|jingfenapp|jdpull|wlogin|we|live\-ws1|payfinish)\.).*\.?jd\.com\/?((?!\.(js|json|jpg|gif|png|webp|dpg|flv|mp3|mp4)).)*)*$,requires-body=1,max-size=-1,script-path=jdHelper.js
+jdHelper1 = type=http-response-body,pattern=^https:\/\/((?!(api|mapi|lbsapi|im\-x|hermes|uranus|saturn|ccf|ccflbs|ccfjma|perf|msg|lite\-msg|firevent|fireactive|lbsgw|lbsgd|ex|policy|mars|blackhole|homepage\-gw|sh|un|bh|orbit|wlmonitor|neptune|jxa|sinan\-agent|ws1\-dd|httpfereport|jingfenapp|jdpull|wlogin|we|live\-ws1|payfinish)\.).*\.?jd\.com\/?((?!\.(js|json|jpg|gif|png|webp|dpg|flv|mp3|mp4)).)*)*$,requires-body=1,max-size=-1,script-path=jdHelper.js
 
 [MITM]
 hostname = %APPEND% in.m.jd.com, me-api.jd.com
