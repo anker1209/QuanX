@@ -1,0 +1,22 @@
+{
+  "id": "naogua",
+  "name": "脑瓜 应用订阅",
+  "author": "@anker1209",
+  "icon": "https://raw.githubusercontent.com/anker1209/Scriptable/main/image/IMG_8927.PNG",
+  "repo": "https://github.com/anker1209/Scriptable",
+  "apps": [
+    {
+      "id": "CookiesJD_Lite",
+      "name": "京东cookie",
+      "keys": ["CookiesJD_Lite"],
+      "val": "",
+      "type": "textarea",
+      "rows": 20,
+      "desc": "CK 列表",
+      "icons": [
+        "https://raw.githubusercontent.com/anker1209/icon/main/jdsc.png",
+        "https://raw.githubusercontent.com/anker1209/icon/main/jdsc.png"
+      ]
+    }
+  ]
+}
