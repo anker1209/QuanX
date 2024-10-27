@@ -80,8 +80,6 @@ if (typeof $response == "undefined") {
     'VOX':{ name: 'VOX Premium', id: 'com.coppertino.VoxMobile.AU.Loop1_v8'},//20.24.4.22
     'PDF%20Viewer':{ name: 'sub.pro', id: 'com.pspdfkit.viewer.sub.pro.yearly'},//2024.3.21
     'Text%20Workflow':{ name: 'pro', id: 'tw_99_1m'},//2024.3.2
-    'FaceMa':{ name: 'Pro access', id: 'Pro_Lifetime'},//Facemo
-    'MadeYu':{ name: 'pro_plus', id: 'my_549_1m_400'},
     'ShellBoxKit':{ name: 'pro', id: 'ShellBoxKit.Lifetime'},//2024.4.9
     'PicSeedClient':{ name: 'Pro', id: 'com.picseed.sub.pro.monthly'},//7.6
     'StarDiary':{ name: 'pro', id: 'com.gsdyx.StarDiary.nonConsumable.forever'},
