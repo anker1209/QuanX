@@ -59,7 +59,7 @@ if (typeof $response == "undefined") {
   const UAMappings = {
     'dtdVibe':{name:'pro',id:'com.dtd.aroundu.year'},//9.26
     'DtdVibe':{name:'pro',id:'com.dtd.playlist.premium.subscription.yearr'},
-    'stepsApp':{name:'stepsapp_pedometer_premium_1_month',id:'app.steps.stepsapp.premium.monthlyTrial.tier1'},
+    'stepsApp':{name:'app.steps.stepsapp.premium.monthlyTrial.tier1',id:'stepsapp_pedometer_premium_1_month'},
     'midiClock':{name:'Entitlement.Pro',id:'tech.miidii.MDClock.pro'},
     'gentler':{name:'premium',id:'app.gentler.activity.subscription.yearly1.add30off_1stYear'},
     'lake':{name:'standard',id:'com.lake.coloring.sub.all1.promo2.yearly2'},
