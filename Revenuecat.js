@@ -59,7 +59,7 @@ if (typeof $response == "undefined") {
   const UAMappings = {
     'dtdVibe':{name:'pro',id:'com.dtd.aroundu.year'},//9.26
     'DtdVibe':{name:'pro',id:'com.dtd.playlist.premium.subscription.yearr'},
-    'stepsApp':{name:'stepsapp_pedometer_premium_1_month',id:'app.steps.stepsapp.premium.monthlyTrial.tier1'},
+    'stepsApp':{name:'\u0073\u0074\u0065\u0070\u0073\u0061\u0070\u0070\u005f\u0070\u0065\u0064\u006f\u006d\u0065\u0074\u0065\u0072\u005f\u0070\u0072\u0065\u006d\u0069\u0075\u006d\u005f\u0031\u005f\u006d\u006f\u006e\u0074\u0068',id:'\u0061\u0070\u0070\u002e\u0073\u0074\u0065\u0070\u0073\u002e\u0073\u0074\u0065\u0070\u0073\u0061\u0070\u0070\u002e\u0070\u0072\u0065\u006d\u0069\u0075\u006d\u002e\u006d\u006f\u006e\u0074\u0068\u006c\u0079\u0054\u0072\u0069\u0061\u006c\u002e\u0074\u0069\u0065\u0072\u0031'},
     'midiClock':{name:'Entitlement.Pro',id:'tech.miidii.MDClock.pro'},
     'gentler':{name:'premium',id:'app.gentler.activity.subscription.yearly1.add30off_1stYear'},
     'lake':{name:'standard',id:'com.lake.coloring.sub.all1.promo2.yearly2'},
